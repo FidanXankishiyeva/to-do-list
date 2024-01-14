@@ -38,46 +38,7 @@
   display: block;
   text-align: center;
 }
-.container .form-box form .btn-box .circle-btn {
-  width: 42px;
-  height: 42px;
-  margin-right: -38bpx;
-  border-radius: 71px;
-  background: #9953f1;
-}
-.container .form-box form .btn-box .circle-btn p {
-  display: flex;
-  width: 42px;
-  height: 42px;
-  flex-direction: column;
-  justify-content: center;
-  flex-shrink: 0;
-  color: #fff;
-  text-align: center;
-  font-family: Roboto;
-  font-size: 14px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-}
-.container .form-box form .btn-box .btn {
-  width: 150px;
-  height: 42px;
-  border-radius: 71px;
-  background: #833ae0;
-}
-.container .form-box form .btn-box .btn a {
-  display: flex;
-  width: 129px;
-  height: 42px;
-  flex-direction: column;
-  justify-content: center;
-  flex-shrink: 0;
-  color: #fff;
-  text-align: center;
-  font-family: Roboto;
-  font-size: 14px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
+.container .form-box form .btn-box button {
+  display: block;
+  margin: auto;
 }/*# sourceMappingURL=index.css.map */
